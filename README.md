@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am Ana Beatriz, a Full-stack React developer, from Brazil.</h2>
+<h2 align="left">Hi 👋! I am Ana Beatriz, a Full-stack React developer from Brazil.</h2>
 
 ###
 
