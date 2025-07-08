@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🛠 Stacks</h4>
+<h4 align="left">🛠 Stacks used</h4>
 
 ###
 
