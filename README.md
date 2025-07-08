@@ -1,20 +1,20 @@
-<h2 align="left">Hi 👋! I am Ana Beatriz, a Full-stack React developer from Brazil.</h2>
+<h3 align="left">Hi 👋! I'm Ana Beatriz</h3>
 
 ###
 
-<h2 align="left">🚀 About me</h2>
+<h4 align="left">🚀 About me</h4>
 
 ###
 
-<p align="left">I'm a React developer passionated by languages and technologies. I am studying Software Engineering at Infnet Institute, currently in the 4th semester.</p>
+<p align="left">I'm a React developer passionate by languages and technologies. I am studying Software Engineering at Infnet Institute, currently in the 4th semester.</p>
 
 ###
 
-<h2 align="left">🛠 Stacks</h2>
+<h4 align="left">🛠 Stacks</h4>
 
 ###
 
-<h4 align="left">Front End</h4>
+<h5 align="left">Front End</h5>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">Back End</h4>
+<h5 align="left">Back End</h5>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h4 align="left">Databases</h4>
+<h5 align="left">Databases</h5>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h4 align="left">Mobile</h4>
+<h5 align="left">Mobile</h5>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h4 align="left">Programming Languages</h4>
+<h5 align="left">Programming Languages</h5>
 
 ###
 
@@ -94,7 +94,7 @@
 
 ###
 
-<h2 align="left">🔗 Contact me</h2>
+<h4 align="left">🔗 Contact me</h4>
 
 ###
 
@@ -109,7 +109,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h4 align="left">📊 GitHub Stats</h4>
 
 ###
 
