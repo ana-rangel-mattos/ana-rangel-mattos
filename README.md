@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm a React developer passionate by languages and technologies. I am studying Software Engineering at Infnet Institute, currently in the 4th semester.</p>
+<p align="left">I'm a React developer passionate by languages, Full-Stack Development and Linux. I am studying Software Engineering at Infnet Institute, currently in the 4th semester.</p>
 
 ###
 
