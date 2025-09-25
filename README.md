@@ -44,9 +44,4 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ana-rangel-mattos&theme=blueberry&hide_border=true&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ana-rangel-mattos&theme=blueberry&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-rangel-mattos&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-trophies.vercel.app/?username=ana-rangel-mattos&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
