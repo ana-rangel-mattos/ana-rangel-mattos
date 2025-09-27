@@ -2,7 +2,7 @@
 
 ### 🚀 About me
 
-- I'm a React developer passionate by languages, Full-Stack Development and Linux.
+- I'm a React developer passionate by languages, Web Development and Linux.
 - I'm studying Software Engineering at Infnet Institute, currently in the 4th semester.
 
 ---
